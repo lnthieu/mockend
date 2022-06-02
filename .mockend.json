@@ -1,8 +1,5 @@
 {
- "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ]
+ "User": {
+    "name":["Le Nguyen Trung Hieu","Dinh Xuan Duy"]
+ }
 }
