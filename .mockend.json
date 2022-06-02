@@ -1,5 +1,7 @@
 {
  "User": {
-    "name":["Le Nguyen Trung Hieu","Dinh Xuan Duy"]
+   "name": {
+    "string":["Le Nguyen Trung Hieu","Dinh Xuan Duy"]
+  }
  }
 }
