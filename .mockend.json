@@ -1,7 +1,7 @@
 {
- "User": {
-   "name": {
-    { "regexp": "[A-Z][a-z]{5,10}" }
+  "User": {
+    "name": {
+      "regexp": "[A-Z][a-z]{5,10}"
+    }
   }
- }
 }
